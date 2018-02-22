@@ -12,6 +12,8 @@
 		B589364F203E48350053A01F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B589364D203E48350053A01F /* Main.storyboard */; };
 		B5893651203E48350053A01F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5893650203E48350053A01F /* Assets.xcassets */; };
 		B5893654203E48350053A01F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5893652203E48350053A01F /* LaunchScreen.storyboard */; };
+		B5893666203E4ECB0053A01F /* alphabet-2001968_960_720.png in Resources */ = {isa = PBXBuildFile; fileRef = B5893665203E4ECB0053A01F /* alphabet-2001968_960_720.png */; };
+		B5893668203E4ED80053A01F /* 2018_volvo_polestar_1_4k_3-1920x1080.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5893667203E4ED80053A01F /* 2018_volvo_polestar_1_4k_3-1920x1080.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		B5893650203E48350053A01F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5893653203E48350053A01F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5893655203E48350053A01F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5893665203E4ECB0053A01F /* alphabet-2001968_960_720.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "alphabet-2001968_960_720.png"; sourceTree = "<group>"; };
+		B5893667203E4ED80053A01F /* 2018_volvo_polestar_1_4k_3-1920x1080.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2018_volvo_polestar_1_4k_3-1920x1080.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				B589364D203E48350053A01F /* Main.storyboard */,
 				B5893650203E48350053A01F /* Assets.xcassets */,
 				B5893652203E48350053A01F /* LaunchScreen.storyboard */,
+				B5893665203E4ECB0053A01F /* alphabet-2001968_960_720.png */,
+				B5893667203E4ED80053A01F /* 2018_volvo_polestar_1_4k_3-1920x1080.jpg */,
 				B5893655203E48350053A01F /* Info.plist */,
 			);
 			path = Udder;
@@ -124,8 +130,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				B5893654203E48350053A01F /* LaunchScreen.storyboard in Resources */,
+				B5893666203E4ECB0053A01F /* alphabet-2001968_960_720.png in Resources */,
 				B5893651203E48350053A01F /* Assets.xcassets in Resources */,
 				B589364F203E48350053A01F /* Main.storyboard in Resources */,
+				B5893668203E4ED80053A01F /* 2018_volvo_polestar_1_4k_3-1920x1080.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
